@@ -26,6 +26,8 @@ This lab demonstrates the deployment and administration of an Active Directory d
 - Security best practices (least-privilege accounts, access control)
   
 ## Screenshots
+**OU Structure**
+![OU Structure](Screenshots/ou-structure.png)
 **Finance OU Objects**
 ![Finance OU Objects](Screenshots/finance-ou-objects.png)
 
