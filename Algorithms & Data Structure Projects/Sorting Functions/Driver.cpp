@@ -1,17 +1,8 @@
 //*****************************************************************************************************
 //
-//		File:					assignment11Driver.cpp
+//		File:					Driver.cpp
 //
-//		Student:				Haylee Tischler
-//
-//		Assignment:				11
-//
-//		Course Name:			Data Structures I
-//
-//		Course Number:			COSC 3100-01
-//
-//		Due:					April 22, 2024
-//
+//		Author:				Haylee Tischler
 //
 //		This program is a driver for different sorting functions
 //	
@@ -252,5 +243,6 @@ madelynne                MAD       123.29
 Motorola Inc.            MOT       17.49
 Advanced Micro Devices   AMD       84.51
 Apple                    AAPL      234.2
+
 
 */
